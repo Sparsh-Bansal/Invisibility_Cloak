@@ -24,3 +24,8 @@ Some of the tested HSV values :
 lower_light_Red = [0,120,70]        upper_light_red = [10,255,255]
 lower_green = [45,100,60]        upper_green = [95,255,255]
 lower_purple = [100,90,50]        upper_purple = [130,255,255]
+
+
+# Demo Video
+
+Yet to upload..!!
